@@ -43,19 +43,22 @@ Bachelor of Science in Computer Science
 ---
 
 ## PROFESSIONAL EXPERIENCE
-**Visa Inc.**, Systems Engineer Intern *(Incoming)* – May 2025 – August 2025  
+**Visa Inc.**, Systems Engineer Intern – Highlands Ranch, CO, May 2025 – Present
+- On the Orchestration and Automation team.
 - Supporting enterprise infrastructure and automation initiatives.  
 - Documenting systems, optimizing internal tools, and improving workflows.
+- Using API key's with GenAI to automate systems. 
 
 **IBM Z**, Student Ambassador – Denver, CO, February 2025 – Present  
 - Promote IBM Z and mainframe technology on campus through events and workshops.  
 - Earned IBM Z Concepts badges and actively build a community through a dedicated mainframe club.
 
-**Society of Asian Scientists and Engineers**, Intern – Denver, CO, December 2024 – Present  
+**Society of Asian Scientists and Engineers**, Co-President – Denver, CO, December 2024 – Present  
 - Applied prior D-Incuvator experience to support another startup at CU Denver.  
 - Developed outreach strategies for underrepresented STEM groups and coordinated events with sponsors.
+- Brought out a guest speaker series to talk about mainframe and enterprise technology
 
-**Raising Canes**, Restaurant Manager – Wheat Ridge, CO, March 2021 – Present  
+**Raising Canes**, Restaurant Manager – Wheat Ridge, CO, March 2021 – May 2025
 - Promoted from Crew Member to Manager.  
 - Oversees store marketing, training, and operations of 20–30 crew members per shift.
 
@@ -78,4 +81,6 @@ Bachelor of Science in Computer Science
 - Workplace Readiness Certification – Red Rocks Community College, Jul 2021  
 - Transformer-Based Natural Language Processing Applications – NVIDIA, Aug 2024 (Python, CUDA)  
 - IBM Z Xplore Concepts Badge – IBM, Feb 2025 (COBOL, Python)  
-- IBM X Xplore Advanced – IBM, Mar 2025 (JCL, COBOL, Python, C)
+- IBM X Xplore Advanced Badge – IBM, Mar 2025 (JCL, COBOL, Python, C)
+- IBM Z Day SE: AI and Data Badge -IBM, April 2025 (Python,JCL,SQL)
+- Quantum Computing Foundations Badge - Interskill, May 2025 (Python) 

@@ -1,3 +1,7 @@
+from weasyprint import HTML
+
+# Load the updated HTML content into a string (adjusted with clubs section + resume.md changes)
+html_content = """
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -58,7 +62,7 @@
 
   <div class="section">
     <h2>Technical Skills & Projects</h2>
-    <p><span class="bold">Programming:</span> C++, Python, Rust, C#, JavaScript, Assembly, PHP, HTML, Swift</p>
+    <p><span class="bold">Programming:</span> C++, Python, Assembly, PHP, HTML</p>
     <p><span class="bold">Cyber-Security:</span> SQL Injection Testing, Secure Database Design</p>
     <p><span class="bold">Databases:</span> MySQL, PostgreSQL, Microsoft Power BI</p>
     <ul>
@@ -66,10 +70,7 @@
       <li>UFC DBMS project – Dec 2024 (SQL, PHP, HTML)</li>
       <li>Scientific Calculator in Assembly – Dec 2024 (MASM)</li>
       <li>Stock Management System – Aug 2024 (C++)</li>
-      <li>Drivemind Real-Time Safety Assistant – Summer 2025 (Swift, HTML, CSS, Python)</li>
       <li>SQL Injection Attack Simulator – TBD (SQL, Python, HTML, C++)</li>
-      <li>NFC Safety Info Site – Apr 2025 (HTML)</li>
-      <li>This Resume – Apr 2025 (HTML)</li>
     </ul>
   </div>
 
@@ -87,6 +88,7 @@
     <ul>
       <li>Support enterprise infrastructure and automation development.</li>
       <li>Document internal systems and optimize technical workflows.</li>
+      <li>Work on orchestration team using GenAI and internal APIs to automate tasks.</li>
     </ul>
 
     <p><span class="bold">IBM Z</span> — Student Ambassador | Feb 2025 – Present</p>
@@ -122,11 +124,11 @@
     <h2>Clubs & Volunteering</h2>
     <p><span class="bold">AI Student Association</span> — Member | Feb 2025 – Present</p>
     <ul>
-      <li>Helped run AI events and tech project development for student hackathons.</li>
+      <li>Assisted with AI event planning and technical workshop development.</li>
     </ul>
     <p><span class="bold">Asian Student Society</span> — Member | Apr 2025 – Present</p>
     <ul>
-      <li>Hosted the annual Blossom Ball with executive board members.</li>
+      <li>Supported event operations and helped organize the Blossom Ball 2025.</li>
     </ul>
   </div>
 
@@ -144,3 +146,10 @@
   </div>
 </body>
 </html>
+"""
+
+# Convert to PDF
+output_path = "/mnt/data/Shivam_Pathak_Resume_2025.pdf"
+HTML(string=html_content).write_pdf(output_path)
+
+output_path
