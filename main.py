@@ -84,7 +84,7 @@ html_content = """
 
   <div class="section">
     <h2>Professional Experience</h2>
-    <p><span class="bold">Visa Inc.</span> — Systems Engineer Intern | May 2025 – Aug 2025</p>
+    <p><span class="bold">Visa Inc.</span> — Systems Engineer Intern | May 2025 – Present </p>
     <ul>
       <li>Support enterprise infrastructure and automation development.</li>
       <li>Document internal systems and optimize technical workflows.</li>
